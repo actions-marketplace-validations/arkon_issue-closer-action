@@ -1,3 +1,7 @@
+**This has been merged into https://github.com/tachiyomiorg/issue-moderator-action**
+
+---
+
 # GitHub action to automatically close issues
 
 _This is a modified version of https://github.com/roots/issue-closer-action_
